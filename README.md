@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMiguel-Silva44anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Miguel-Silva44/Miguel-Silva44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
