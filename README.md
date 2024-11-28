@@ -3,7 +3,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Silva44&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Sobre mim 👋
-
 Olá! Sou Miguel, desenvolvedor Java Backend apaixonado por tecnologia e inovação. Aqui estão algumas das ferramentas e tecnologias que utilizo no meu dia a dia:
 
 ## 📊 Linguagens:
@@ -46,4 +45,6 @@ Olá! Sou Miguel, desenvolvedor Java Backend apaixonado por tecnologia e inovaç
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="50" height="50" />
   </a>
 </div>
+
+![Snake animation](https://github.com/Miguel-Silva44/Miguel-Silva44/blob/output/github-contribution-grid-snake.svg)
 
