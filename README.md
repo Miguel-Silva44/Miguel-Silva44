@@ -46,5 +46,3 @@ Olá! Sou Miguel, desenvolvedor Java Backend apaixonado por tecnologia e inovaç
   </a>
 </div>
 
-![Snake animation](https://github.com/Miguel-Silva44/Miguel-Silva44/blob/output/github-contribution-grid-snake.svg)
-
