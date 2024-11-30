@@ -45,4 +45,3 @@ Olá! Sou Miguel, desenvolvedor Java Backend apaixonado por tecnologia e inovaç
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="50" height="50" />
   </a>
 </div>
-
