@@ -6,7 +6,8 @@
 Olá! Sou Miguel, desenvolvedor Java Backend apaixonado por tecnologia e inovação. Aqui estão algumas das ferramentas e tecnologias que utilizo no meu dia a dia:
 
 ## Certificações:
-[ecertificate.pdf](https://github.com/user-attachments/files/18496579/ecertificate.pdf)
+![ecertificate_page-0001](https://github.com/user-attachments/assets/1d1902e6-5260-4c23-a5a4-6bc887e0af6e)
+https://catalog-education.oracle.com/ords/certview/sharebadge?id=15315331816A9418C4119C3AD580DCBB58AEBC4EA62E29902334F482CD6C2E37
 
 ## 📊 Linguagens:
 <div style="display: flex; flex-wrap: wrap;">
