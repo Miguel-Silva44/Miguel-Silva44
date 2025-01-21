@@ -5,6 +5,9 @@
 ## Sobre mim 👋
 Olá! Sou Miguel, desenvolvedor Java Backend apaixonado por tecnologia e inovação. Aqui estão algumas das ferramentas e tecnologias que utilizo no meu dia a dia:
 
+## Certificações:
+[ecertificate.pdf](https://github.com/user-attachments/files/18496579/ecertificate.pdf)
+
 ## 📊 Linguagens:
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
