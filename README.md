@@ -34,7 +34,7 @@ https://catalog-education.oracle.com/ords/certview/sharebadge?id=15315331816A941
 
 ## 🌱 O que estou aprendendo
 
-- 🚀 Avançando no desenvolvimento backend com Java e Spring Boot.
+- 🚀 Avançando no desenvolvimento FullStack em diversas linguagens.
 - 🛠️ Explorando melhores práticas no desenvolvimento de APIs RESTful.
 - 🐋 Aprimorando meu conhecimento em Docker e orquestração de contêineres.
 - ✨ Trabalhando com aplicações React para desenvolvimento frontend moderno.
