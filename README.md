@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Silva44&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Sobre mim 👋
-Olá! Sou Miguel, desenvolvedor Java Backend apaixonado por tecnologia e inovação. Aqui estão algumas das ferramentas e tecnologias que utilizo no meu dia a dia:
+Olá! Sou Miguel, desenvolvedor Java FullStack apaixonado por tecnologia e inovação. Aqui estão algumas das ferramentas e tecnologias que utilizo no meu dia a dia:
 
 ## Certificações:
 ![ecertificate_page-0001](https://github.com/user-attachments/assets/1d1902e6-5260-4c23-a5a4-6bc887e0af6e)
