@@ -41,11 +41,10 @@ https://catalog-education.oracle.com/ords/certview/sharebadge?id=15315331816A941
 - ✨ Trabalhando com aplicações React para desenvolvimento frontend moderno.
 
 ## 📫 Entre em contato
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 30px;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 30px;">
   <a href="mailto:miguel.email3@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="50" height="50" />
   </a>
-  <div></div>
   <a href="https://www.linkedin.com/in/miguel-inacio44" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" />
   </a>
