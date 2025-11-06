@@ -47,6 +47,6 @@ https://catalog-education.oracle.com/ords/certview/sharebadge?id=15315331816A941
   </a>
   <div></div>
   <a href="https://www.linkedin.com/in/miguel-inacio44" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" />
   </a>
 </div>
