@@ -1,6 +1,7 @@
 # Olá, eu sou o Miguel! 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel-Silva44&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Silva44&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Miguel-Silva44&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Miguel-Silva44&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Sobre mim 👋
 Olá! Sou Miguel, desenvolvedor Java FullStack apaixonado por tecnologia e inovação. Aqui estão algumas das ferramentas e tecnologias que utilizo no meu dia a dia:
